@@ -1,4 +1,3 @@
-# Multi-User Authentication Tutorail
+# Manga CMS
 
-_Produced by DevMarketer_
-"# manga" 
+This is a manga reader cms application.
